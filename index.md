@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: WELCOME to my way of solving problems
 ---
 
