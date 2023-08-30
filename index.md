@@ -1,4 +1,4 @@
 ---
-title: WELCOME to my way of solving problems
+title: solutions for leetcode problems
 ---
 
