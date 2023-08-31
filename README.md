@@ -22,7 +22,7 @@ I'm a third-year undergrad student that is interested in flutter application dev
 The primary goal of this repository is to give individuals with my opinion on a problem solution as well as the best potential answer.
 
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png)
 
 
 ## 🔗 Links
